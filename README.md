@@ -1,5 +1,6 @@
 # Neo4j-assignment
 Text and solution of an assignment (in the "Advanced Data Management" course) on Neo4j during my MSc in Computer Science and Engineering.
+All the work done with my colleague Stefano Rebora.
 
 # Preliminary activities
 
