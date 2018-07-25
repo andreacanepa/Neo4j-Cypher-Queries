@@ -2,12 +2,14 @@
 Text and solution of an assignment (in the "Advanced Data Management" course) on Neo4j during my MSc in Computer Science and Engineering.
 
 Preliminary activities
-• After downloading and installing Neo4j, start Neo4j Desktop. Start a database, enable development mode and open the neo4jBrowser. You can now type and execute all Cypher commands.
-• Create the Movie Graph database. You can get there by:
-– Selecting Jump Into Code and then Movie Graph and Create Graph from
+
+After downloading and installing Neo4j, start Neo4j Desktop. Start a database, enable development mode and open the neo4jBrowser. You can now type and execute all Cypher commands.
+
+Create the Movie Graph database. You can get there by:
+1) Selecting Jump Into Code and then Movie Graph and Create Graph from
 the main page of the browser
-– Selecting Favorites → Sample Scripts → Example Graphs → Movie Graph from the left menu.
-– DownloadingMovieGraph.cypfromAulaWebandimportingitinCypher). Execute all the creates, and observe the resulting graph.
+2) Selecting Favorites → Sample Scripts → Example Graphs → Movie Graph from the left menu.
+3) DownloadingMovieGraph.cypfromAulaWebandimportingitinCypher). Execute all the creates, and observe the resulting graph.
 
 
 Exercise 1: Cypher Queries
