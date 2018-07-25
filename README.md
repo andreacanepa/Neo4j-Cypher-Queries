@@ -1,7 +1,9 @@
 # Neo4j-assignment
 Text and solution of an assignment (in the "Advanced Data Management" course) on Neo4j during my MSc in Computer Science and Engineering.
 
-Preliminary activities
+<b>Preliminary activities</b>
+<hr>
+
 • After downloading and installing Neo4j, start Neo4j Desktop. Start a database, enable development mode and open the neo4jBrowser. You can now type and execute all Cypher commands.
 • Create the Movie Graph database. You can get there by:
 – Selecting Jump Into Code and then Movie Graph and Create Graph from
@@ -10,7 +12,8 @@ the main page of the browser
 – DownloadingMovieGraph.cypfromAulaWebandimportingitinCypher). Execute all the creates, and observe the resulting graph.
 
 
-Exercise 1: Cypher Queries
+<b>Exercise 1: Cypher Queries</b>
+<hr>
 Creating your Movie Graph database instance. Then, for each of the following re- quests specify whether it can be expressed in Cypher. If yes, present and execute the corresponding statement. If no, or if some of your proposed statement raise some errors, discuss the issues and provide some motivations/possible alternatives.
 For all the queries, examine the results in graph, textual, and tabular form.
 1. Return a given person, retrieved by a condition on his/her name specified in the query.
@@ -27,7 +30,8 @@ For all the queries, examine the results in graph, textual, and tabular form.
 12. Return the movies that are at most 4 hops according to any relationship from The Matrix.
  
  
-Exercise 2: Cypher Updates
+<b>Exercise 2: Cypher Updates</b>
+<hr>
 On your Movie Graph database instance perform (if possible) the following updates and comment on their impact.
 1. add a new movie of your choice and its actors
 2. add a property to a movie or to an actor of your choice
