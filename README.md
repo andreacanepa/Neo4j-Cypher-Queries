@@ -6,13 +6,17 @@ Preliminary activities
 After downloading and installing Neo4j, start Neo4j Desktop. Start a database, enable development mode and open the neo4jBrowser. You can now type and execute all Cypher commands.
 
 Create the Movie Graph database. You can get there by:
+
 1) Selecting Jump Into Code and then Movie Graph and Create Graph from
 the main page of the browser
 2) Selecting Favorites → Sample Scripts → Example Graphs → Movie Graph from the left menu.
-3) DownloadingMovieGraph.cypfromAulaWebandimportingitinCypher). Execute all the creates, and observe the resulting graph.
+3) Downloading MovieGraph.cyp and importing it in Cypher. 
+
+Execute all the creates, and observe the resulting graph.
 
 
 Exercise 1: Cypher Queries
+
 Creating your Movie Graph database instance. Then, for each of the following re- quests specify whether it can be expressed in Cypher. If yes, present and execute the corresponding statement. If no, or if some of your proposed statement raise some errors, discuss the issues and provide some motivations/possible alternatives.
 For all the queries, examine the results in graph, textual, and tabular form.
 1. Return a given person, retrieved by a condition on his/her name specified in the query.
