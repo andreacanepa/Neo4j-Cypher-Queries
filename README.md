@@ -39,7 +39,8 @@ On your Movie Graph database instance perform (if possible) the following update
 1. add a new movie of your choice and its actors
 2. add a property to a movie or to an actor of your choice
 3. add a property (with a default or computed value) to all the nodes with a certain characteristic of your choice (making used of the FOREACH statement).
-Exercise 3: Modelling Additional Information
+
+# Exercise 3: Modelling Additional Information
 Extend the garph database with information about the books from which movies derive and corresponding author, publishing information, and significant differences between the book and the movie.
 1. propose a way of representing this information in the property graph model
 2. add at least an instance for each introduced concept
